@@ -1,0 +1,8 @@
+$ javac -version
+javac 1.8.0
+
+$ javac Hello.java
+
+$ java Hello
+Hello, World!
+
