@@ -1,0 +1,14 @@
+$ gplc --version
+Prolog compiler (GNU Prolog) 1.3.0
+By Daniel Diaz
+Copyright (C) 1999-2007 Daniel Diaz
+GNU Prolog comes with ABSOLUTELY NO WARRANTY.
+You may redistribute copies of GNU Prolog
+under the terms of the GNU General Public License.
+For more information about these matters, see the files named COPYING.
+
+$ gplc hello.pl
+
+$ ./hello
+Hello, World!
+
