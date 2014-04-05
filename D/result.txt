@@ -1,0 +1,11 @@
+$dmd
+DMD32 D Compiler v2.060
+Copyright (c) 1999-2012 by Digital Mars written by Walter Bright
+Documentation: http://www.dlang.org/index.html
+...
+
+$ dmd hello.d
+
+$ ./hello
+Hello, World!
+
