@@ -1,3 +1,6 @@
+$ coffee -version
+CoffeeScript version 1.2.0
+
 $ coffee -c hello.coffee
 
 $ node hello.js
