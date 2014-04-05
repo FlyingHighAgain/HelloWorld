@@ -1,0 +1,5 @@
+$ coffee -c hello.coffee
+
+$ node hello.js
+Hello, World!
+
