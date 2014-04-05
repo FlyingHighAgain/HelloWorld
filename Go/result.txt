@@ -1,0 +1,8 @@
+$ go version
+go version go1
+
+$ go build hello.go
+
+$ ./hello
+Hello, World!
+
