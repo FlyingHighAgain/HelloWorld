@@ -1,0 +1,8 @@
+$ erl -version
+Erlang (SMP,ASYNC_THREADS) (BEAM) emulator version 5.8.5
+
+$ erlc hello.erl
+
+$ erl -noshell -s hello start -s init stop
+Hello, World!
+
