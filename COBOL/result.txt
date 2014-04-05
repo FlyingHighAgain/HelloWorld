@@ -1,0 +1,17 @@
+$ cobc -version
+cobc (OpenCOBOL) 1.0.0
+Copyright (C) 2001-2007 Keisuke Nishida
+Copyright (C) 2007 Roger While
+
+$ cobc -x hello.cob
+/tmp/cob24148_0.c: In function ‘HELLO_’:
+/tmp/cob24148_0.c:75:7: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+/tmp/cob24148_0.c:76:7: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+/tmp/cob24148_0.c:77:7: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+/tmp/cob24148_0.c:88:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+/tmp/cob24148_0.c:107:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+/tmp/cob24148_0.c:111:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+
+$ ./hello
+Hello, World!
+
