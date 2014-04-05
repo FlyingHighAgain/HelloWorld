@@ -1,0 +1,10 @@
+$ ghc --version
+The Glorious Glasgow Haskell Compilation System, version 7.4.1
+
+$ ghc -o hello hello.hs
+[1 of 1] Compiling Main             ( hello.hs, hello.o )
+Linking hello ...
+
+$ ./hello
+Hello, World!
+
