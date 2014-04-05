@@ -1,0 +1,9 @@
+$ ocamlc -v
+The Objective Caml compiler, version 3.12.1
+Standard library directory: /usr/lib/ocaml
+
+$ ocamlc -o hello hello.ml
+
+$ ./hello
+Hello, World
+
