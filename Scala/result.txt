@@ -1,0 +1,8 @@
+$ scalac -version
+Scala compiler version 2.10.4 -- Copyright 2002-2013, LAMP/EPFL
+
+$ scalac hello.scala
+
+$ scala HelloWorld
+Hello, World!
+
