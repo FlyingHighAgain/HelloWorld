@@ -1,4 +1,4 @@
-tadanori@Mint-Dell ~/GitHub/HelloWorld/R $ R --version
+$ R --version
 R version 2.14.1 (2011-12-22)
 Copyright (C) 2011 The R Foundation for Statistical Computing
 ISBN 3-900051-07-0
@@ -10,7 +10,7 @@ GNU General Public License version 2.
 For more information about these matters see
 http://www.gnu.org/licenses/.
 
-tadanori@Mint-Dell ~/GitHub/HelloWorld/R $ R -q -f hello.r
+$ R -q -f hello.r
 > # hello.r
 > 
 > print("Hello, World!")
