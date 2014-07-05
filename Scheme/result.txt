@@ -1,0 +1,5 @@
+$ gosh -V
+Gauche scheme shell, version 0.9.1 [utf-8,pthreads], i686-pc-linux-gnu
+$ gosh hello.scm
+Hello, World!
+
