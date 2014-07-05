@@ -1,0 +1,9 @@
+$ nasm -v
+NASM version 2.09.10 compiled on Oct 17 2011
+
+$ nasm -f elf hello.asm
+$ ld -s -o hello hello.o
+
+$ ./hello
+Hello, World!
+
