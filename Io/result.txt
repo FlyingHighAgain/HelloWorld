@@ -1,0 +1,6 @@
+$ io_static --version
+Io Programming Language, v. 20110905
+
+$ io_static hello.io
+Hello, World
+
