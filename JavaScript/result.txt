@@ -1,0 +1,6 @@
+$ rhino hello.js
+Hello, World!
+
+$ node hello.js
+Hello, World!
+
