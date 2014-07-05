@@ -1,0 +1,10 @@
+$ vbnc hello.vb
+Visual Basic.Net Compiler version 0.0.0.5943
+Copyright (C) 2004-2010 Rolf Bjarne Kvinge. All rights reserved.
+
+Assembly 'hello, Version=0.0, Culture=neutral, PublicKeyToken=null' saved successfully to '/HelloWorld/VisualBasic.NET/hello.exe'.
+Compilation successful
+Compilation took 00:00:01.0953170
+$ mono hello.exe
+Hello, World!
+
